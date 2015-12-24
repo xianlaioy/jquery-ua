@@ -81,6 +81,8 @@
                     { number: '7.5', name: 'mango' }
                 ]},
                 { name: 'win', versionSearch: 'windows(?: nt)? ', versionNames: [
+                    { number: '10.0', name: 'win10' },
+                    { number: '6.4', name: 'win10 TechnicalPreview' },
                     { number: '6.3', name: 'win81' },
                     { number: '6.2', name: 'win8' },
                     { number: '6.1', name: 'win7' },
